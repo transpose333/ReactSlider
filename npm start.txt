@@ -1,0 +1,2 @@
+cd ./slider
+npm start
